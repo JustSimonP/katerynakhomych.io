@@ -1,0 +1,9 @@
+/* styles.css */
+/* Custom styles if necessary */
+.hidden {
+    display: none;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, li, a { /* Apply to all relevant elements */
+    font-family: 'Montserrat', sans-serif;
+}
