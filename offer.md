@@ -11,14 +11,15 @@ permalink: /offer/
                 <img src="/assets/zawodyKijow2.jpg" alt="Khateryna Khomych" class="rounded max-w-xs md:max-w-sm lg:max-w-md mx-auto">
             </div>
             <div class="md:flex-1 md:ml-8 shadow-lg bg-white rounded-lg p-4 transition duration-300 hover:scale-105">
-                <ul class="list-decimal pl-5 space-y-2">
-                    <li>Trening odchudzający</li>
-                    <li>Trening siłowy</li>
-                    <li>Treningi full body</li>
-                    <li>Tworzenie kompleksowych planów treningowych</li> 
+                <p class="mb-2 leading-loose">Oferuję szeroki zakres usług treningowych dostosowanych do Twoich potrzeb. Poniższe opcje wspólnego treningu są dostępne na miejscu w obszarze miasta Poznań.</p>
+                <ul class="list-disc mb-2 pl-5 space-y-2">
+                    <li class="underline">Trening odchudzający</li>
+                    <li class="underline">Trening siłowy</li>
+                    <li class="underline">Trening full body</li>
+                    <li class="underline">Tworzenie kompleksowych planów treningowych</li> 
                 </ul>
-                <p class="mb-2"> Wykorzystując swoje wieloletnie doświadczenie z rozmaitych dyscyplin sportowych, prezentuje jasne wskazówki i konkretne plany treningowe. Wyjaśniam wpływ poszczególnych ćwiczeń na rozwój formy i możliwości sportowca.Proponuję również zindywidualizowany plan treningowy oraz w zależności od potrzeb nieszablonowy zestaw ćwiczeń. Wiem jak połączyć trening siłowy i wyglądać kobieco, odzywiać się zdrowo i smacznie
-                Zainteresowany/a ? Napisz
+                <p class="mb-2 leading-loose"> Wykorzystując swoje wieloletnie doświadczenie z rozmaitych dyscyplin sportowych, prezentuje jasne wskazówki i konkretne plany treningowe. Wyjaśniam wpływ poszczególnych ćwiczeń na rozwój formy i możliwości sportowca. Proponuję również zindywidualizowany plan treningowy oraz w zależności od potrzeb nieszablonowy zestaw ćwiczeń. Wiem jak połączyć trening siłowy i wyglądać kobieco, odżywiać się zdrowo i smacznie.
+                Skontaktuj się ze mną, aby ustalić plan dopasowany do Twoich celów.
                 </p>
             </div>
         </div>
