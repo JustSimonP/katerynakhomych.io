@@ -4,9 +4,10 @@
     display: none;
 }
 
-#menu {
-    flex-direction: column; /* Stack the links vertically when displayed */
-  }
+#mobile-menu a {
+    text-align: left;
+    width: 100%; /* Full-width links for easier touch targets */
+}
 
 body, h1, h2, h3, h4, h5, h6, p, li, a { /* Apply to all relevant elements */
     font-family: 'Montserrat', sans-serif;

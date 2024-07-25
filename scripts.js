@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Dropdown menu toggle for mobile view
     const menuToggle = document.getElementById('menu-toggle');
-    const menu = document.getElementById('menu');
+    const menu = document.getElementById('mobile-menu');
 
     menuToggle.addEventListener('click', () => {
         menu.classList.toggle('hidden');
