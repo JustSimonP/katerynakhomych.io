@@ -9,4 +9,12 @@ document.addEventListener('DOMContentLoaded', () => {
             window.location.href = href;
         });
     });
+
+    // Dropdown menu toggle for mobile view
+    const menuToggle = document.getElementById('menu-toggle');
+    const menu = document.getElementById('menu');
+
+    menuToggle.addEventListener('click', () => {
+        menu.classList.toggle('hidden');
+    });
 });
