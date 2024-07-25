@@ -17,7 +17,7 @@ permalink: /achievements/
                     <li>Rekordzistka świata federacji WUAP RAW Deadlift 150kg</li>
                     <li>Zawody federacji MSМК Deadlift 150kg (1 miejsce)</li>
                     <li>Zawody WPAU 2024 (1 miejsce) Deadlift</li>
-                    <li>WPA, WPC, GPC, WPC Poland, GPC European 2023 Powerlifting RAW (1 i 2 miejsce?)</li>
+                    <li>WPA, WPC, GPC, WPC Poland, GPC European 2023 Powerlifting RAW (1 i 2 miejsce)</li>
                     <li>Zawody WPC Poland Powerlifting RAW (2 miejsce)</li>
                     <li>WPC Poland Powerlifting RAW (2 miejsce), AWPC/WPC 2021 DLRAW (1 miejsce) DLRAW (3 miejsce) European WPC DL</li>
                 </ul>
