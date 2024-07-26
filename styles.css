@@ -17,6 +17,7 @@
     right: 0.5rem;
     font-size: 1.5rem;
     cursor: pointer;
+    align-items: end;
 }
 
 body, h1, h2, h3, h4, h5, h6, p, li, a { /* Apply to all relevant elements */
