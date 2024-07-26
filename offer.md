@@ -5,7 +5,7 @@ permalink: /offer/
 ---
 
 <div id="offer" class="content">
-      <div class="container mx-auto p-5 bg-gray-100">
+      <div class="container mx-auto p-5">
         <div class="flex flex-col md:flex-row">
             <div class="md:flex-1 md:mr-8 rounded-lg overflow-hidden transition duration-300 hover:scale-105">
                 <img src="{{ site.url }}{{ site.baseurl }}/assets/zawodyKijow2.jpg" alt="Khateryna Khomych" class="rounded max-w-xs md:max-w-sm lg:max-w-md mx-auto">
