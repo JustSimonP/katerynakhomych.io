@@ -4,9 +4,18 @@
     display: none;
 }
 
-#mobile-menu a {
-    text-align: left;
-    width: 100%; /* Full-width links for easier touch targets */
+.mobile-menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mobile-menu .close-menu {
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    font-size: 1.5rem;
+    cursor: pointer;
 }
 
 body, h1, h2, h3, h4, h5, h6, p, li, a { /* Apply to all relevant elements */

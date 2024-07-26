@@ -12,9 +12,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Dropdown menu toggle for mobile view
     const menuToggle = document.getElementById('menu-toggle');
-    const menu = document.getElementById('mobile-menu');
+    const mobileMenu = document.getElementById('mobile-menu');
+    const closeMenu = document.getElementById('close-menu');
 
     menuToggle.addEventListener('click', () => {
-        menu.classList.toggle('hidden');
+        mobileMenu.classList.remove('hidden');
+    });
+
+    closeMenu.addEventListener('click', () => {
+        mobileMenu.classList.add('hidden');
     });
 });
