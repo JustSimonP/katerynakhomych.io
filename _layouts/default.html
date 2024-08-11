@@ -7,6 +7,11 @@
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/styles.css">
+    <style>
+        .background-gym {
+            background-image: url("{{ 'assets/barbellImage.png' | prepend: site.baseurl }}");
+        }
+    </style>
 </head>
 <body class="background-gym bg-cyan-200">
     {% include navbar.html %}
